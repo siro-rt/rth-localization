@@ -1,0 +1,7 @@
+{
+  "NSLocationAlwaysAndWhenInUseUsageDescription": "<US> The location permission provides extra information on your wireless network and internet provider. This information is recorded only when a scan is running.",
+  "NSLocationAlwaysUsageDescription": "<US> The location permission provides extra information on your wireless network and internet provider. This information is recorded only when a scan is running.",
+  "NSLocationWhenInUseUsageDescription": "<US> The location permission provides extra information on your wireless network and internet provider. This information is recorded only when a scan is running.",
+  "NSCameraUsageDescription": "RouteThis Helps requires access to your camera to help diagnose problems.",
+  "NSLocalNetworkUsageDescription": "To optimize your network speed and performance, we need to test connectivity to all connected devices."
+}
